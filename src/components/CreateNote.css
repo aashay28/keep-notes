@@ -1,0 +1,9 @@
+.mainDiv {
+  box-sizing: border-box;
+  text-align: center;
+  padding: 2rem;
+}
+.textArea {
+  padding: 1rem;
+  margin-top: 1rem;
+}

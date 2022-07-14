@@ -1,0 +1,10 @@
+.noteMain {
+  border: 2px black solid;
+  width: 20%;
+  height: 200px;
+  padding: 2rem;
+  display: inline-block;
+  margin: 2rem;
+  margin-left: 3rem;
+  overflow: scroll;
+}
